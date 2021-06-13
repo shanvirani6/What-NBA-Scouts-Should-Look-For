@@ -9,3 +9,6 @@ DataSets:
 [2012ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644542/2012ppg.csv)
 [2015ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644543/2015ppg.csv)
 [nba_draft_combine_all_years.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644545/nba_draft_combine_all_years.csv)
+
+StoryBoard: 
+[StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644588/StoryBoard.pdf)
