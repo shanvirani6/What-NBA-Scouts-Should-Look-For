@@ -5,10 +5,18 @@ Jupyter Notebook:
 https://colab.research.google.com/drive/1P5poTCz5ljvdBJET7W12o57PI8xErr9j?authuser=2
 
 DataSets: 
-[2009ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644541/2009ppg.csv)
+[2009ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644541/2009ppg.csv):
+
+This dataset incldues the career points per game for all NBA players drafted in 2009.
+
 [2012ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644542/2012ppg.csv)
+This dataset incldues the career points per game for all NBA players drafted in 2012.
+
 [2015ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644543/2015ppg.csv)
+
+This dataset incldues the career points per game for all NBA players drafted in 2015.
 [nba_draft_combine_all_years.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644545/nba_draft_combine_all_years.csv)
 
 StoryBoard: 
-[StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644588/StoryBoard.pdf)
+[StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644588/StoryBoard.pdf) -
+
