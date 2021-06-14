@@ -17,5 +17,6 @@ This dataset incldues the career points per game for all NBA players drafted in 
 This dataset incldues the career points per game for all NBA players drafted in 2015.
 
 StoryBoard: 
-[StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644588/StoryBoard.pdf) -
+[StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6645193/StoryBoard.pdf)
+
 
