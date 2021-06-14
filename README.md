@@ -15,7 +15,6 @@ This dataset incldues the career points per game for all NBA players drafted in 
 [2015ppg.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644543/2015ppg.csv)
 
 This dataset incldues the career points per game for all NBA players drafted in 2015.
-[nba_draft_combine_all_years.csv](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644545/nba_draft_combine_all_years.csv)
 
 StoryBoard: 
 [StoryBoard.pdf](https://github.com/shanvirani6/What-NBA-Scouts-Should-Look-For/files/6644588/StoryBoard.pdf) -
