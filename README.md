@@ -3,7 +3,7 @@
 Project Discription 
 **
 
-As it relates to the NBA Draft, teams and scouts have had much trouble in drafting consistent stars; Many describe the majority of picks in the NBA Draft as "busts," or players that do not live up to their potential. The intent of this respository is to provide a basis for what specifically NBA scouts should look for in the draft. In order to do this, there will be a variety of correlations between Career Points Per Game and many stats from the NBA Draft Combine.
+As it relates to the NBA Draft, teams and scouts have had much trouble in drafting consistent stars; Many describe the majority of picks in the NBA Draft as "busts," or players that do not live up to their potential. The intent of this project is to provide a basis for what specifically NBA scouts should look for in the draft. In order to do this, there will be a variety of correlations between Career Points Per Game and many stats from the NBA Draft Combine.
 
 **
 Hypthoesis 
