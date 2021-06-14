@@ -9,7 +9,7 @@ As it relates to the NBA Draft, teams and scouts have had much trouble in drafti
 Hypthoesis 
 **
 
-Multiple NBA teams design, and use python and R coding languages in order to ensure that their respective teams' draft the best available project. However, it seems that over the years, scouts may be searching for the wrong factors, such as points per game in college; And while searching for college points per game may not be a completely incorrect approach, scouts would be better off searching for correlations within the NBA Draft Combine in order to make better picks in the Draft.
+Multiple NBA teams design, and use python and R coding languages in order to ensure that their respective teams' draft the best available prospects. However, it seems that over the years, scouts may be searching for the wrong factors, such as points per game in college; And while searching for college points per game may not be a completely incorrect approach, scouts would be better off searching for correlations within the NBA Draft Combine in order to make better picks in the Draft.
 
 **
 Methods and Tools for Computational Analysis
