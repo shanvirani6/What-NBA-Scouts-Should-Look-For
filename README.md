@@ -17,5 +17,9 @@ Methods and Tools for Computational Analysis
 
 This project will use a series of python code in Jupyter Notebook in order to perform proper analysis and find clear corrleations between Draft Combine stats and career points per game. Futhermore, datasets linked above such as, [2009ppg.csv], [2012ppg.csv], [2015ppg.csv], and [nba_draft_combine_all_years.csv], all found directly from basketball-reference.com and kaggle.com will be used as a starting grounds to provide clear infomration about each player being analyzed. Additionally, lucidtemplates.com will be used to make a storyboard containing thought processes, workflows, and more in-depth narratives about the topic, in order to better put together work.
 
+** 
+Video For Project Tutorial
+** 
 
+Link: https://drive.google.com/drive/u/2/folders/1buGfTY0EqDWK72-CgoGcQd48xBDuKj2t
 
