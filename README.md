@@ -23,3 +23,17 @@ Video For Project Tutorial
 
 Link: https://drive.google.com/drive/u/2/folders/1buGfTY0EqDWK72-CgoGcQd48xBDuKj2t
 
+**
+References
+**
+Basketball Statistics and History.?Basketball, www.basketball-reference.com/ Https://Bleacherreport.com/Articles/471215-a-Decades-Worth-Best-Nba-Draft
+-Class-of-the-Last-10-Years.
+
+Chou, Andrew. ?NBA Draft Combine Measurements - Dataset by Achou.?Data.world, 2 May2018,data.world/achou/nba-draft-combine-measurements/workspace/file?filename= nba_raft_combine_all_years.csv.
+
+Https://Fadeawayworld.net/Entertainment/Ranking-the-Top-10-Fastest-Nba- Players-of-All-Time.
+
+Https://Www.espn.com/Blog/Chicago/Bulls/Post/_/Id/20/Chicago-Bulls-Guard- Derrick-Rose-Discusses-the-Dunk-over-Phoenix-Suns-Goran-Dragic.
+
+P, Pat. ?NBA Draft 1980-2017.?Kaggle, 22 Feb. 2018, www.kaggle.com/pmp5kh/nba-draft-19802017
+www.sbnation.com/nba/2014/6/25/5831860/nba-draft-picks-2014-superstars-chart
